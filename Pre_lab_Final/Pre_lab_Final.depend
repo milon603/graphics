@@ -1,11 +1,9 @@
 # depslib dependency file v1.0
-1639595724 source:d:\grp\moon\main.cpp
+1639434438 source:d:\grp\pre_lab_final\main.cpp
 	<windows.h>
 	<GL/glut.h>
 	<stdlib.h>
-	<stdio.h>
 	<math.h>
-	<mmsystem.h>
 
 1618166295 c:\mingw\include\windows.h
 	<winresrc.h>

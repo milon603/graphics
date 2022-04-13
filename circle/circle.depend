@@ -1,9 +1,11 @@
 # depslib dependency file v1.0
-1639415100 source:d:\grp\circle\main.cpp
+1639592211 source:d:\grp\circle\main.cpp
 	<windows.h>
-	<GL/glut.h>
-	<stdlib.h>
+	<GL\glut.h>
+	<GL/glu.h>
 	<math.h>
+	<stdlib.h>
+	<stdio.h>
 
 1618166295 c:\mingw\include\windows.h
 	<winresrc.h>

@@ -1,9 +1,13 @@
 # depslib dependency file v1.0
-1639248356 source:d:\grp\w7taxk\main.cpp
+1640013221 source:d:\grp\w7taxk\main.cpp
+	<cstdio>
 	<windows.h>
-	<GL/glut.h>
-	<stdlib.h>
 	<math.h>
+	<vector>
+	<cstdlib>
+	<GL/gl.h>
+	<GL/glut.h>
+	<MMSystem.h>
 
 1618166295 c:\mingw\include\windows.h
 	<winresrc.h>
